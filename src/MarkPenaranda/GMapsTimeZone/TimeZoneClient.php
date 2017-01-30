@@ -1,4 +1,5 @@
-<?php
+<?php 
+namespace MarkPenaranda\GMapsTimeZone;
 
 class TimeZoneClient 
 {
